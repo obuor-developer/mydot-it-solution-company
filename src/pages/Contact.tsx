@@ -32,7 +32,7 @@ const Contact = () => {
                 <MapPin className="h-6 w-6 text-blue-600" />
                 <div>
                   <p className="font-medium">Address</p>
-                  <p className="text-gray-600">123 Tech Street, Silicon Valley, CA 94025</p>
+                  <p className="text-gray-600">Tema Community 3 Site (B)</p>
                 </div>
               </div>
             </div>
